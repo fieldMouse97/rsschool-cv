@@ -1,0 +1,66 @@
+body {
+  background-image: url("2.jpg");
+}
+.wall-paper {
+  opacity: 0.9;
+  max-width: 900px;
+  margin: 0 auto;
+ background-color: white;
+ 
+  border: 2px solid white;
+  color: black;
+  font-family: 'Lora', serif;
+
+}
+h1 {
+    text-align: center;
+}
+.header-div {
+  text-align: center;
+  font-style: italic;
+  font-size: 16px;
+}
+.header-summary {
+  font-style: italic;
+  font-size: 14px;
+  padding-bottom: 25px;
+}
+
+.cv-nav {
+  padding: 18px;
+  list-style: none;
+  margin: 0 auto;
+  text-decoration: none;
+  display: inline;
+  
+
+}
+.strict-title {
+  font-weight: bold;
+}
+.description {
+font-style: italic;
+}
+
+th, td {
+  border: 1px solid grey;
+}
+h5 {
+  text-align: center;
+  }
+
+  footer {
+    text-align: center;
+    font-size: 12px;
+    font-style: italic;
+
+  }
+.skills {
+  display: inline;
+  padding: 15px;
+  
+}
+
+
+
+
