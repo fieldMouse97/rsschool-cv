@@ -1,2 +1,3 @@
 
-link: *https://fieldMouse97.github.io/rsschool-cv/cv*
+
+https://fieldMouse97.github.io/rsschool-cv/
